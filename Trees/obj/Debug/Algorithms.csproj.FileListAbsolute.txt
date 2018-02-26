@@ -1,0 +1,7 @@
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\e4c\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
